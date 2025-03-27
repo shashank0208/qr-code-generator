@@ -23,12 +23,12 @@
 
 ---
 
-## ⚡ Features
-✅ **Instant QR Code Generation** – Just enter text or a URL and get a QR code!  
-✅ **Downloadable QR Codes** – Save your QR codes as images.  
-✅ **Clean & Minimal UI** – Beautifully designed for a smooth experience.  
-✅ **Mobile Responsive** – Works on any device!  
-✅ **Fast & Lightweight** – Built with Flask and Python for efficiency.  
+##  Features
+ **Instant QR Code Generation** – Just enter text or a URL and get a QR code!  
+ **Downloadable QR Codes** – Save your QR codes as images.  
+ **Clean & Minimal UI** – Beautifully designed for a smooth experience.  
+ **Mobile Responsive** – Works on any device!  
+ **Fast & Lightweight** – Built with Flask and Python for efficiency.  
 
 ---
 
